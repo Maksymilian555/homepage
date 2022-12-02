@@ -1,3 +1,5 @@
+console.log("Ten kod jest w repozytorium git");
+
 let euroElement = document.querySelector(".js-sum");
 let courseElement = document.querySelector(".js-course");
 let formElement = document.querySelector(".js-form");
