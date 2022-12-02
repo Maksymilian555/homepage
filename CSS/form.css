@@ -1,0 +1,41 @@
+.form{
+    max-width: 500px;
+    margin: auto;
+}
+
+.form__filedset{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.form__filed{
+    margin: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.form__legend{
+    background-color: darkgoldenrod;
+    color: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.form__button{
+    padding: 15px;
+    margin: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: darkgoldenrod;
+    color: white;
+
+}
+
+.form__Paragraph--gold{
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+}
