@@ -1,4 +1,4 @@
-# homepage - Maksymilian Gozdek - mój pierwszy kalkulator 
+Maksymilian Gozdek - mój pierwszy kalkulator 
 
 ## Demo
 https://maksymilian555.github.io/homepage/
