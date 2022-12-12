@@ -9,3 +9,10 @@
     max-width: 1000px;
     font-family: 'Roboto', sans-serif;
 }
+
+.body--background{
+    background-image: url(../Images/pageBackground.png); 
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
